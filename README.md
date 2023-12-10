@@ -9,7 +9,8 @@ Orientador: Prof. Dr. Leandro Colombi Resendo
 
 Este repositório armazena um Algoritmo Genético implementado na linguagem C, adaptado para ambientes baseado em Linux. Segue o fluxograma geral:
 
-![image](https://github.com/rraidero/parallel-island-ag-cvrp/assets/80008624/a5ca1da8-f505-49d7-b004-fff46861ac20)
+![image](https://github.com/rraidero/parallel-island-ag-cvrp/assets/80008624/d739466f-ae47-490c-a704-c5db15031eeb)
+
 
 
 ## Pré-requisitos de Compilação
