@@ -3,7 +3,7 @@
 Este repositório contém o algoritmo desenvolvido para o Projeto de Diplomação (TCC) intitulado **Solucionando o Problema de Roteamento de Veículos Capacitado com uso de Algoritmos Genéticos e Paralelismo**, desenvolvido como requisito para conclusão do curso Bacharelado em Sistemas de Informação, no IFES campus Serra.
 
 Autor: Rodrigo Raider de Oliveira
-Orientador: Prof. Dr. Leandro Colombi Resendo
+
 
 ## Visão Geral
 
