@@ -15,6 +15,8 @@ Para execução do algoritmo, segue sugestão das ferramentas com suas respectiv
   - Ambiente baseado em Linux (Ubuntu 23.10)
   - GCC versão 13.2.0
 
+* Originalmente o algoritmo foi desenvolvido em plataforma Windows, para isso foi utilizado MinGW para instalar o gcc 4.8.1-3, bem como o pthreads-w32.
+
 ## Compilando os Códigos
 
 1ª Etapa: **acessar diretório** e gerar os binários das dependências:
